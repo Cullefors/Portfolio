@@ -6462,14 +6462,19 @@ readers do not read off random characters that represent icons */
   color: #000;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Open Sans", sans-serif;
 }
 
 body {
   display: flex;
   flex-direction: column;
-  background-color: #1b5733;
+  background-color: #426349;
 }
 
 .main {
@@ -6478,21 +6483,25 @@ body {
   margin: 2em auto;
 }
 
-.header, .footer {
+.header,
+.footer {
   flex: 0 0 auto;
 }
 
-.header, .site-header {
+.header,
+.site-header {
   display: flex;
   justify-content: space-between;
 }
 
-.title, .logo {
+.title,
+.logo {
   padding: 3em 3em 3em 0;
 }
 
 @media (max-width: 767px) {
-  .title, .logo {
+  .title,
+.logo {
     padding: 1em 1em 1em 0;
   }
 
@@ -6513,12 +6522,10 @@ body {
   justify-content: space-between;
   border-top: 1px solid #000;
 }
-
-.footer a {
+.footer .footer a {
   color: #000;
 }
-
-.footer .social {
+.footer .footer a .footer .social {
   font-size: 2rem;
 }
 
