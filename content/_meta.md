@@ -4,10 +4,10 @@ Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/Cullefors
-      icon: github
+      icon: fab fa-github
 
     - title: Link till sidans github repo.
       url: https://www.instagram.com/
-      icon: instagram
+      icon: fab fa-instagram
 ---
 
