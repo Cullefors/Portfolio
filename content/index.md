@@ -15,4 +15,5 @@ Teknik, data och spel har alltid funnits i mitt liv och varit en grundkälla til
 Jag älskar att skapa saker, bygga och installera det mesta. Jag har rest ganska mycket runt om i Europa och även i USA. Jag älskar Apple. Stortrivs ute i naturen och gå långa vandringsleder. Fritiden sitter jag oftas med mitt Nintendo Switch, tränar och nu för tillfället packar ner mitt hem. 
 
 
-<div> <img class="pic" src="image/me.jpeg" alt="jag i soffan" width="300px"></div>
+<div> <img class="pic" src="image/me.jpeg" alt="jag i soffan"
+width="300px"></div>
